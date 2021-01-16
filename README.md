@@ -54,36 +54,40 @@ You can access NYU Tandon’s Bern Dibner Library here: http://library.poly.edu/
 
 ## Tentative List of Topics Covered in the Program:
 
-● Fundamentals of system hardware
-● Number Systems
-● Compilation and Execution process
-● Data types and Expressions
-● Branching statements
-● Iterative Statements
-● Intro to algorithm analysis and Order of growth
-● Coding functions, Abstraction and Runtime stack
-● Arrays
-● Strings
-● Pointers and Dynamic allocation
-● Logic
-● Proofs
-● Sets
-● Mathematical Functions
-● Introduction to Counting
-● Discrete Probability
-● Induction
-● Recursion
-● Searching and Sorting
-● Object Oriented Programming concepts
-● File Processing
-● Linked Lists
-● Stacks and Queues
-● Trees and Binary Search trees
-● Intro to OS Concepts
-● Processes & Threads
-● Thread concurrency and deadlocks
-● Memory Management
-● Introduction to Networking
-● Overview of OSI/RM
-● Physical layout of networks
-● Application Layer, Network Layer and Transport Layer
+* Fundamentals of system hardware
+* Number Systems
+* Compilation and Execution process
+* Data types and Expressions
+* Branching statements
+* Iterative Statements
+* Intro to algorithm analysis and Order of growth
+* Coding functions, Abstraction and Runtime stack
+* Arrays
+* Strings
+* Pointers and Dynamic allocation
+* Logic
+* Proofs
+* Sets
+* Mathematical Functions
+* Introduction to Counting
+* Discrete Probability
+* Induction
+* Recursion
+* Searching and Sorting
+* Object Oriented Programming concepts
+* File Processing
+* Linked Lists
+* Stacks and Queues
+* Trees and Binary Search trees
+* Intro to OS Concepts
+* Processes & Threads
+* Thread concurrency and deadlocks
+* Memory Management
+* Introduction to Networking
+* Overview of OSI/RM
+* Physical layout of networks
+* Application Layer, Network Layer and Transport Layer
+
+## Disclaimer
+
+The files shared here are for learning and research purpose only. They should not be used for commercial purpose.
